@@ -188,5 +188,5 @@ El modelo ha sido evaluado utilizando validación cruzada y métricas robustas p
 
 ---
 
-**Autor**: [Tu Nombre/Usuario]
+**Autor**: Nicolas Estefania
 **Examen de Machine Learning**
